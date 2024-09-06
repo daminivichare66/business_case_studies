@@ -1,0 +1,115 @@
+Here are formulas to calculate key metrics for the eCommerce industry. These formulas help track sales, customer behavior, profitability, and marketing performance:
+
+### 1. **Sales & Revenue Metrics**
+   - **Total Sales Revenue**:
+     \[
+     \text{Total Sales Revenue} = \text{Number of Units Sold} \times \text{Price per Unit}
+     \]
+   - **Average Order Value (AOV)**:
+     \[
+     \text{AOV} = \frac{\text{Total Revenue}}{\text{Number of Orders}}
+     \]
+   - **Conversion Rate**:
+     \[
+     \text{Conversion Rate (\%)} = \frac{\text{Number of Purchases}}{\text{Total Visitors}} \times 100
+     \]
+   - **Customer Lifetime Value (CLV)**:
+     \[
+     \text{CLV} = \text{Average Purchase Value} \times \text{Average Purchase Frequency} \times \text{Customer Lifespan}
+     \]
+   - **Gross Profit Margin**:
+     \[
+     \text{Gross Profit Margin (\%)} = \frac{\text{Total Revenue} - \text{Cost of Goods Sold (COGS)}}{\text{Total Revenue}} \times 100
+     \]
+   - **Cart Abandonment Rate**:
+     \[
+     \text{Cart Abandonment Rate (\%)} = \frac{\text{Carts Created} - \text{Completed Purchases}}{\text{Carts Created}} \times 100
+     \]
+
+### 2. **Customer Acquisition & Retention**
+   - **Customer Acquisition Cost (CAC)**:
+     \[
+     \text{CAC} = \frac{\text{Total Marketing and Sales Expenses}}{\text{Number of New Customers Acquired}}
+     \]
+   - **Return on Ad Spend (ROAS)**:
+     \[
+     \text{ROAS} = \frac{\text{Revenue from Ads}}{\text{Cost of Ads}}
+     \]
+   - **Customer Retention Rate**:
+     \[
+     \text{Customer Retention Rate (\%)} = \frac{\text{Customers at End of Period} - \text{New Customers During Period}}{\text{Customers at Start of Period}} \times 100
+     \]
+   - **Churn Rate**:
+     \[
+     \text{Churn Rate (\%)} = \frac{\text{Customers Lost During Period}}{\text{Customers at Start of Period}} \times 100
+     \]
+
+### 3. **Website & User Experience Metrics**
+   - **Bounce Rate**:
+     \[
+     \text{Bounce Rate (\%)} = \frac{\text{Visitors Viewing Only 1 Page}}{\text{Total Website Visitors}} \times 100
+     \]
+   - **Pages per Session**:
+     \[
+     \text{Pages per Session} = \frac{\text{Total Page Views}}{\text{Total Sessions}}
+     \]
+   - **Site Load Speed**: Measured in seconds, though not a formula, the load time is often tracked through website analytics tools.
+   - **Mobile Conversion Rate**:
+     \[
+     \text{Mobile Conversion Rate (\%)} = \frac{\text{Mobile Purchases}}{\text{Total Mobile Visitors}} \times 100
+     \]
+
+### 4. **Inventory & Fulfillment**
+   - **Inventory Turnover**:
+     \[
+     \text{Inventory Turnover} = \frac{\text{Cost of Goods Sold (COGS)}}{\text{Average Inventory Value}}
+     \]
+   - **Order Fulfillment Time**: 
+     \[
+     \text{Order Fulfillment Time} = \text{Order Delivery Date} - \text{Order Placement Date}
+     \]
+   - **Return Rate**:
+     \[
+     \text{Return Rate (\%)} = \frac{\text{Total Returned Orders}}{\text{Total Orders}} \times 100
+     \]
+   - **Out of Stock Rate**:
+     \[
+     \text{Out of Stock Rate (\%)} = \frac{\text{Days Out of Stock for a Product}}{\text{Total Days in Period}} \times 100
+     \]
+
+### 5. **Customer Satisfaction & Loyalty**
+   - **Net Promoter Score (NPS)**:
+     \[
+     \text{NPS} = \% \text{Promoters} - \% \text{Detractors}
+     \]
+     Promoters: Customers rating 9-10; Detractors: Customers rating 0-6.
+   - **Customer Satisfaction (CSAT) Score**:
+     \[
+     \text{CSAT (\%)} = \frac{\text{Satisfied Customers}}{\text{Total Survey Respondents}} \times 100
+     \]
+
+### 6. **Marketing Metrics**
+   - **Email Open Rate**:
+     \[
+     \text{Open Rate (\%)} = \frac{\text{Emails Opened}}{\text{Total Emails Sent}} \times 100
+     \]
+   - **Click-Through Rate (CTR)**:
+     \[
+     \text{CTR (\%)} = \frac{\text{Clicks}}{\text{Impressions or Emails Opened}} \times 100
+     \]
+
+### 7. **Financial Metrics**
+   - **Operating Profit Margin**:
+     \[
+     \text{Operating Profit Margin (\%)} = \frac{\text{Operating Income}}{\text{Total Revenue}} \times 100
+     \]
+   - **Return on Investment (ROI)**:
+     \[
+     \text{ROI (\%)} = \frac{\text{Net Profit}}{\text{Investment Cost}} \times 100
+     \]
+   - **Refunds and Discounts as a Percentage of Sales**:
+     \[
+     \text{Refund/Discount Percentage (\%)} = \frac{\text{Refunds or Discounts}}{\text{Total Sales}} \times 100
+     \]
+
+By tracking and calculating these metrics, businesses can get clear insights into their performance and areas where they can improve.
